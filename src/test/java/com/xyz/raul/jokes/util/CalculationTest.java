@@ -32,7 +32,7 @@ class CalculationTest {
 	@Test
 	public void testCube() {
 		System.out.println("test case cube");
-		assertEquals(27, Calculation.cube(3));
+		assertEquals(27, Calculation.cube(3));	
 	}
 
 	@Test  
